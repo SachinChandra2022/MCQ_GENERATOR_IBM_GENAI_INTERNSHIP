@@ -71,6 +71,5 @@ D) A type of cell in humans
 
 
 ## 🌐 References
-	•	Hugging Face Transformers
-	•	OpenAI API Docs
+	•	Gemini API Docs
 	•	Streamlit Docs
